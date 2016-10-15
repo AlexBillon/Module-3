@@ -93,6 +93,9 @@ div#Menu{
   .nav > li > a{
     padding: 0;
   }
+  #header-nav {
+    height: 64px;
+  }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6, .col-md-12 {
@@ -109,6 +112,9 @@ div#Menu{
   }
   .nav > li > a{
     padding: 0;
+  }
+  #header-nav {
+    height: 64px;
   }
 }
 @media (max-width: 767px) {
